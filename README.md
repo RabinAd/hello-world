@@ -1,3 +1,3 @@
 # hello-world
-LifeIsBeautiful
-Its me Rabin.I am nature loving person and I love working really hard.
+Life Is Beautiful
+Its me Rabin.I love to program and work hard.
